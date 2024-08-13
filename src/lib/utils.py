@@ -1,0 +1,2 @@
+def nextl():
+  print('\n')
